@@ -19,3 +19,7 @@ and front-end modules :
      npm install
 
 To edit Vue js go to: `resources/js`
+
+# Creation
+
+This was created with help in this repository: https://github.com/boussadjra/laravel-vue-3-starter
